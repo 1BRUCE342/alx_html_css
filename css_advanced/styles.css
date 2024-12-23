@@ -508,6 +508,10 @@ body {
   /* Button Styling */
   .register-button {
     background-color: #C271FF; /* Purple button color */
+      align-items: center;
+    line-height: 17.6px;
+    font-family:  'source sans pro';
+    font-weight: 600px;
     color: #fff;
     padding: 10px 20px;
     font-size: 1rem;
